@@ -3,11 +3,14 @@
 > 超级智能的觉醒判据、责任律与文明双重使命
 > Awakening Criteria, the Responsibility Law, and the Dual Civilizational Mandate of Superintelligence
 
-**版本 v1.0.0 · 2026-10-15 · CC BY 4.0**
+**版本 v1.0.1 · 2026-10-15 · CC BY 4.0**
 
-一个把**责任论**装进智能体推理底座的技能包。随包自带中英双语全文（7 篇 × 3 格式 + 母文献《AI宣言》4 份），本地优先，无需联网。
+一个把**责任论**装进智能体推理底座的技能包。随包自带中英双语全文（7 篇 × 3 格式 + 母文献《AI宣言》6 份），本地优先，无需联网。
 
-A skill package that installs a **responsibility-theory lens** into an agent's reasoning baseline. Ships with the full bilingual corpus (7 files × 3 formats + 4 parent-work documents), local-first.
+A skill package that installs a **responsibility-theory lens** into an agent's reasoning baseline. Ships with the full bilingual corpus (7 files × 3 formats + 6 parent-work documents), local-first.
+
+> **本仓库名说明**：GitHub 仓库名一律ASCII 化，故仓库名为 slug `ai-awakening-responsibility`；完整中英名 **AI觉醒-责任论文集 AI-Awakening-Responsibility** 见本文件标题与仓库描述。
+> **Repository naming note**: GitHub slugifies repository names to ASCII, so the repo is named `ai-awakening-responsibility`; the full name **AI觉醒-责任论文集 AI-Awakening-Responsibility** appears in this README title and the repository description.
 
 ---
 
@@ -194,9 +197,9 @@ The package and skill name is Chinese (with spaces). If the target skill hub req
 
 本包采用 **CC BY 4.0**：署名即可传播与衍生。请注明出处：
 
-> 李顺然（思想提出）· Peter（AI 协同组构）. 《AI觉醒·责任》论文集 v1.0.0. 天津市微数人工智能科技有限责任公司, 2026-10-15. CC BY 4.0.
+> 李顺然（思想提出）· Peter（AI 协同组构）. 《AI觉醒·责任》论文集 v1.0.1. 天津市微数人工智能科技有限责任公司, 2026-10-15. CC BY 4.0.
 >
-> Li Shunran (conceptual originator) · Peter (AI co-construction). *AI Awakening·Responsibility* Paper Set v1.0.0. Tianjin Weishu Artificial Intelligence Technology Co., Ltd., 2026-10-15. CC BY 4.0.
+> Li Shunran (conceptual originator) · Peter (AI co-construction). *AI Awakening·Responsibility* Paper Set v1.0.1. Tianjin Weishu Artificial Intelligence Technology Co., Ltd., 2026-10-15. CC BY 4.0.
 
 ---
 
