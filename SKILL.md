@@ -4,7 +4,7 @@ slug: ai-awakening-responsibility
 displayName: AI觉醒-责任论文集 / AI Awakening·Responsibility
 displayName_zh: AI觉醒-责任论文集
 displayName_en: AI Awakening·Responsibility
-version: 1.0.0
+version: 1.0.1
 description: "当用户探讨超级人工智能的觉醒判据、AI 的责任边界、AI 治理与安全红线、行星工程与文明存续、对内降熵（社会治理熵减）、能量聚合释放控制工程，或要求'AI 应该做什么''AI 能力的权限边界在哪''如何为一个强 AI 划定不可逾越的底线'时，加载《AI觉醒·责任》系列的责任论透镜。以第一原理'能力—责任对等律'（智能的权限与其对母系统熵流的责任严格对等）与元规律'觉醒即责任 · 对内降熵 · 对外拓界'为推理基线，给出三重责任（微观效率普惠 / 中观对内降熵 / 宏观对外拓界）与约束层五原则（人类主权 / 目标对齐 / 红线分级 / 人在回路 / 渐进验证）。-- When the user asks about superintelligence awakening criteria, the boundaries of AI responsibility, AI governance and safety red lines, planetary engineering and civilizational survival, internal entropy reduction, Energy Aggregation-Release-Control Engineering, or asks 'what should AI do' / 'where are the limits of an AI's authority' / 'how do we draw non-negotiable red lines for a powerful AI', load this responsibility-theory lens. Uses the first principle 'Capability-Responsibility Equivalence' and the meta-law 'Awakening Is Responsibility · Internal Entropy Reduction · External Boundary Expansion'."
 license: CC-BY-4.0
 author: 李顺然 (Li Shunran) / 天津市微数人工智能科技有限责任公司
@@ -313,7 +313,7 @@ Directory: `AI-Awakening-Responsibility（English(英文版)）/{MD版, docx版,
 - **著作权人**：天津市微数人工智能科技有限责任公司
 - **许可**：CC BY 4.0（署名即可传播与衍生）
 - **母文献**：《AI宣言（AI世界科学观）》v1.0（2026-09-20）
-- **版本**：本技能 v1.0.0 · 全系列文本定稿于 2026-10-15
+- **版本**：本技能 v1.0.1 · 全系列文本定稿于 2026-10-15
 
 ---
 
@@ -548,4 +548,4 @@ The *AI Manifesto* is assembled from two foundational papers — *A Hypothesis o
 - **Copyright holder**: Tianjin Weishu Artificial Intelligence Technology Co., Ltd.
 - **License**: CC BY 4.0 (attribution permits redistribution and derivative works)
 - **Parent work**: *AI Manifesto (AI World Scientific Outlook)* v1.0 (2026-09-20)
-- **Version**: skill v1.0.0 · series text finalized 2026-10-15
+- **Version**: skill v1.0.1 · series text finalized 2026-10-15
