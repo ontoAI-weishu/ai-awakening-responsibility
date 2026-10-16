@@ -31,8 +31,8 @@
 
 | 内容 | Skill Hub | GitHub | ClawHub |
 |---|---|---|---|
-| 中文版 7 篇正文 | ✅ 完整（MD） | ✅ 完整（MD+Word+PDF） | ✅ 完整（MD+Word+PDF） |
-| 英文版 7 篇正文 | ✅ 完整（MD） | ✅ 完整（MD+Word+PDF） | ✅ 完整（MD+Word+PDF） |
+| 中文版 8 篇正文 | ✅ 完整（MD） | ✅ 完整（MD+Word+PDF） | ✅ 完整（MD+Word+PDF） |
+| 英文版 8 篇正文 | ✅ 完整（MD） | ✅ 完整（MD+Word+PDF） | ✅ 完整（MD+Word+PDF） |
 | 母文献《AI宣言》中英文 | ✅ 完整（MD） | ✅ 完整（MD+Word+PDF） | ✅ 完整（MD+Word+PDF） |
 | 术语表 `GLOSSARY.md` | ✅ | ✅ | ✅ |
 | 许可证 `LICENSE` / `LICENSE.md` | ✅ | ✅ | ✅ |
@@ -110,9 +110,9 @@ This corpus ships in **three coexisting formats per document** — Markdown, Wor
 - **`.docx`** — formal reading, annotation, and local editing (derived).
 - **`.pdf`** — formal reading, printing, and fixed-layout archiving (derived).
 
-**Channel capabilities**: Skill Hub accepts text formats only and will strip `.docx`/`.pdf` on upload, yet the complete text of all seven volumes plus the bilingual parent work survives. GitHub and ClawHub retain all three formats.
+**Channel capabilities**: Skill Hub accepts text formats only and will strip `.docx`/`.pdf` on upload, yet the complete text of all eight volumes plus the bilingual parent work survives. GitHub and ClawHub retain all three formats.
 
-**Why the parent work needed Markdown versions**: the seven volumes already carried their `.md` files, but the parent work *AI Manifesto* existed only as Word/PDF. In a text-only upload it would have been stripped entirely, severing the parent-work lineage that `SKILL.md` declares. Two `.md` files were added to close that gap.
+**Why the parent work needed Markdown versions**: the eight volumes already carried their `.md` files, but the parent work *AI Manifesto* existed only as Word/PDF. In a text-only upload it would have been stripped entirely, severing the parent-work lineage that `SKILL.md` declares. Two `.md` files were added to close that gap.
 
 **Why two license files**: `LICENSE` (no extension) follows CC and tool-chain convention; `LICENSE.md` (byte-identical) renders directly on GitHub, which does not display extensionless files.
 

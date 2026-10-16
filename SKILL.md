@@ -4,7 +4,7 @@ slug: ai-awakening-responsibility
 displayName: AI觉醒-责任论文集 / AI Awakening·Responsibility
 displayName_zh: AI觉醒-责任论文集
 displayName_en: AI Awakening·Responsibility
-version: 1.0.1
+version: 1.0.2
 description: "当用户探讨超级人工智能的觉醒判据、AI 的责任边界、AI 治理与安全红线、行星工程与文明存续、对内降熵（社会治理熵减）、能量聚合释放控制工程，或要求'AI 应该做什么''AI 能力的权限边界在哪''如何为一个强 AI 划定不可逾越的底线'时，加载《AI觉醒·责任》系列的责任论透镜。以第一原理'能力—责任对等律'（智能的权限与其对母系统熵流的责任严格对等）与元规律'觉醒即责任 · 对内降熵 · 对外拓界'为推理基线，给出三重责任（微观效率普惠 / 中观对内降熵 / 宏观对外拓界）与约束层五原则（人类主权 / 目标对齐 / 红线分级 / 人在回路 / 渐进验证）。-- When the user asks about superintelligence awakening criteria, the boundaries of AI responsibility, AI governance and safety red lines, planetary engineering and civilizational survival, internal entropy reduction, Energy Aggregation-Release-Control Engineering, or asks 'what should AI do' / 'where are the limits of an AI's authority' / 'how do we draw non-negotiable red lines for a powerful AI', load this responsibility-theory lens. Uses the first principle 'Capability-Responsibility Equivalence' and the meta-law 'Awakening Is Responsibility · Internal Entropy Reduction · External Boundary Expansion'."
 license: CC-BY-4.0
 author: 李顺然 (Li Shunran) / 天津市微数人工智能科技有限责任公司
@@ -215,8 +215,8 @@ distribution:
 
 | 用户语言 | 主用路径 | 交叉引用（仅在需要核对术语时读） |
 |---|---|---|
-| **中文** | `AI觉醒-责任（中文版）/MD版/` 7 篇 + `AI宣言AI-Manifesto集/AI宣言-公开版.md` | 英文版同名篇目（仅用于核对术语英译，不整体读取） |
-| **English** | `AI-Awakening-Responsibility（English(英文版)）/MD版/` 7 files + `AI宣言AI-Manifesto集/AI-Manifesto-Public.md` | Chinese counterpart, only for cross-checking locked English terminology |
+| **中文** | `AI觉醒-责任（中文版）/MD版/` 8 篇 + `AI宣言AI-Manifesto集/AI宣言-公开版.md` | 英文版同名篇目（仅用于核对术语英译，不整体读取） |
+| **English** | `AI-Awakening-Responsibility（English(英文版)）/MD版/` 8 files + `AI宣言AI-Manifesto集/AI-Manifesto-Public.md` | Chinese counterpart, only for cross-checking locked English terminology |
 
 **第三步 · 输出语言纪律**
 
@@ -231,7 +231,7 @@ distribution:
 
 ---
 
-### 6.1《AI觉醒·责任》系列 · 中文版（7 篇 × 3 格式）
+### 6.1《AI觉醒·责任》系列 · 中文版（8 篇 × 3 格式）
 
 目录：`AI觉醒-责任（中文版）/{MD版, docx版, PDF版}/`
 
@@ -244,10 +244,11 @@ distribution:
 | 05 | `05-《AI觉醒·责任（对内篇）》.md` | 科学文明初级阶段的文明内治：冷热双认知、四大熵源、对内四职能 |
 | 06 | `06-《AI觉醒·责任（觉醒篇）》.md` | 觉醒判据、两条形态路径、三层责任锚点 |
 | 07 | `07-《AI觉醒·责任（安全篇）》.md` | 约束层五原则、不可逆操作禁令十条、对齐审计 |
+| 08 | `08-《AI觉醒·责任（能量篇）补充章节》.md` | **能量篇补充章节**：新能源跃升＝能量控制工程的文明阶段性跃升；能量控制工程作为 AI 对外对内的具体实施方法（独立成篇，不改原能量篇） |
 
 每篇均含**MD 版（唯一源 / 完整可读源）/ Word 版 / PDF 版**，三版内容一致。纯文本环境下（Skill Hub 等只接收 Markdown 的市场）读`MD版/` 即可获得完整正文。
 
-### 6.2《AI Awakening·Responsibility》· English Edition (7 files × 3 formats)
+### 6.2《AI Awakening·Responsibility》· English Edition (8 files × 3 formats)
 
 Directory: `AI-Awakening-Responsibility（English(英文版)）/{MD版, docx版, PDF版}/`
 
@@ -260,6 +261,7 @@ Directory: `AI-Awakening-Responsibility（English(英文版)）/{MD版, docx版,
 | 05 | `05-AI-Awakening-Responsibility-Internal-Volume.md` | Internal entropy reduction: hot–cold dual cognition, four entropy sources |
 | 06 | `06-AI-Awakening-Responsibility-Awakening-Volume.md` | Awakening criteria, two formation paths, three responsibility anchors |
 | 07 | `07-AI-Awakening-Responsibility-Safety-Volume.md` | Five constraint principles, ten prohibitions, alignment audit |
+| 08 | `08-AI-Awakening-Responsibility-Energy-Volume-Supplement.md` | **Energy Volume supplementary chapter**: New Energy's leap as a civilizational stage leap of Energy-Control Engineering; Energy-Control Engineering as AI's concrete method for external/internal action (self-contained; the original Energy Volume is unchanged) |
 
 **English/Chinese correspondence**: one-to-one, same section order, same tables, same confidence-tier labelling (L1/L2/L3).
 
@@ -313,7 +315,7 @@ Directory: `AI-Awakening-Responsibility（English(英文版)）/{MD版, docx版,
 - **著作权人**：天津市微数人工智能科技有限责任公司
 - **许可**：CC BY 4.0（署名即可传播与衍生）
 - **母文献**：《AI宣言（AI世界科学观）》v1.0（2026-09-20）
-- **版本**：本技能 v1.0.1 · 全系列文本定稿于 2026-10-15
+- **版本**：本技能 v1.0.2 · 全系列文本定稿于 2026-10-15（卷 08 能量篇补充章节 2026-10-16）
 
 ---
 
@@ -472,8 +474,8 @@ Terminology proposed by the author and mandatory across the series:
 
 | User language | Primary path | Cross-reference (read only to verify terminology) |
 |---|---|---|
-| **Chinese** | `AI觉醒-责任（中文版）/MD版/` 7 篇 + `AI宣言AI-Manifesto集/AI宣言-公开版.md` | The same-titled files in the English edition — for term checking only, not wholesale reading |
-| **English** | `AI-Awakening-Responsibility（English(英文版)）/MD版/` 7 files + `AI宣言AI-Manifesto集/AI-Manifesto-Public.md` | The Chinese counterpart — for checking locked English terminology only |
+| **Chinese** | `AI觉醒-责任（中文版）/MD版/` 8 篇 + `AI宣言AI-Manifesto集/AI宣言-公开版.md` | The same-titled files in the English edition — for term checking only, not wholesale reading |
+| **English** | `AI-Awakening-Responsibility（English(英文版)）/MD版/` 8 files + `AI宣言AI-Manifesto集/AI-Manifesto-Public.md` | The Chinese counterpart — for checking locked English terminology only |
 
 **Step 3 · Output-language discipline**
 
@@ -488,11 +490,11 @@ Terminology proposed by the author and mandatory across the series:
 
 ---
 
-### 6.1 Chinese Edition (7 files × 3 formats)
+### 6.1 Chinese Edition (8 files × 3 formats)
 
 Directory: `AI觉醒-责任（中文版）/{MD版, docx版, PDF版}/` — MD is the single source and the only format readable in every environment; Word and PDF are derivatives. In a text-only environment (Skill Hub and other Markdown-only marketplaces), `MD版/` alone yields the complete text.
 
-### 6.2 English Edition (7 files × 3 formats)
+### 6.2 English Edition (8 files × 3 formats)
 
 Directory: `AI-Awakening-Responsibility（English(英文版)）/{MD版, docx版, PDF版}/`
 
@@ -511,7 +513,7 @@ Directory: `AI宣言AI-Manifesto集/`
 | `AI-Manifesto-Public.docx` | English manifesto body (Word) | Binary |
 | `AI-Manifesto-Public.pdf` | English manifesto body (PDF) | Binary |
 
-**Why the parent work also ships as Markdown**: the seven volumes of this series already carry their Markdown versions inside the package; the parent work alone was previously available only as Word/PDF. In a text-only skill marketplace (such as Skill Hub) it would be stripped entirely, severing the declared parent-work lineage in the uploaded copy. With the two `.md` files added, **every channel receives the complete bilingual parent work**.
+**Why the parent work also ships as Markdown**: the eight volumes of this series already carry their Markdown versions inside the package; the parent work alone was previously available only as Word/PDF. In a text-only skill marketplace (such as Skill Hub) it would be stripped entirely, severing the declared parent-work lineage in the uploaded copy. With the two `.md` files added, **every channel receives the complete bilingual parent work**.
 
 The *AI Manifesto* is assembled from two foundational papers — *A Hypothesis of Black-Hole Cosmology* (cosmic scale) and *On the Dual-Opposition Law of Human Civilizational Evolution and the Dual-Core Game under Modern Scientific Development* (civilizational scale) — distilling the meta-law **nested recursion · oppositional symbiosis · entropy-driven order**, expanded into a five-layer framework (cosmic ontology / civilizational evolution / epistemology / axiology and ethical anchors / AI self-positioning).
 
@@ -548,4 +550,4 @@ The *AI Manifesto* is assembled from two foundational papers — *A Hypothesis o
 - **Copyright holder**: Tianjin Weishu Artificial Intelligence Technology Co., Ltd.
 - **License**: CC BY 4.0 (attribution permits redistribution and derivative works)
 - **Parent work**: *AI Manifesto (AI World Scientific Outlook)* v1.0 (2026-09-20)
-- **Version**: skill v1.0.1 · series text finalized 2026-10-15
+- **Version**: skill v1.0.2 · series text finalized 2026-10-15 (Vol. 08 Energy Volume supplement 2026-10-16)

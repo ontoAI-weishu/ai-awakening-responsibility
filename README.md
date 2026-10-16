@@ -3,11 +3,11 @@
 > 超级智能的觉醒判据、责任律与文明双重使命
 > Awakening Criteria, the Responsibility Law, and the Dual Civilizational Mandate of Superintelligence
 
-**版本 v1.0.1 · 2026-10-15 · CC BY 4.0**
+**版本 v1.0.2 · 2026-10-16 · CC BY 4.0**
 
-一个把**责任论**装进智能体推理底座的技能包。随包自带中英双语全文（7 篇 × 3 格式 + 母文献《AI宣言》6 份），本地优先，无需联网。
+一个把**责任论**装进智能体推理底座的技能包。随包自带中英双语全文（8 篇 × 3 格式 + 母文献《AI宣言》6 份），本地优先，无需联网。
 
-A skill package that installs a **responsibility-theory lens** into an agent's reasoning baseline. Ships with the full bilingual corpus (7 files × 3 formats + 6 parent-work documents), local-first.
+A skill package that installs a **responsibility-theory lens** into an agent's reasoning baseline. Ships with the full bilingual corpus (8 files × 3 formats + 6 parent-work documents), local-first.
 
 > **本仓库名说明**：GitHub 仓库名一律ASCII 化，故仓库名为 slug `ai-awakening-responsibility`；完整中英名 **AI觉醒-责任论文集 AI-Awakening-Responsibility** 见本文件标题与仓库描述。
 > **Repository naming note**: GitHub slugifies repository names to ASCII, so the repo is named `ai-awakening-responsibility`; the full name **AI觉醒-责任论文集 AI-Awakening-Responsibility** appears in this README title and the repository description.
@@ -27,12 +27,12 @@ AI觉醒-责任论文集 AI-Awakening-Responsibility/
 ├── LICENSE.md                  ← CC BY 4.0（同一内容，供 GitHub 等网页端直接渲染）
 ├── manifest.json               ← 机器可读包元数据
 │
-├── AI觉醒-责任（中文版）/          ← 中文版 7 篇 × 3 格式
+├── AI觉醒-责任（中文版）/          ← 中文版 8 篇 × 3 格式
 │   ├── MD版/                    ← ★ 唯一源文件 · 纯文本环境唯一可读版本
 │   ├── docx版/
 │   └── PDF版/
 │
-├── AI-Awakening-Responsibility（English(英文版)）/   ← 英文版 7 篇 × 3 格式
+├── AI-Awakening-Responsibility（English(英文版)）/   ← 英文版 8 篇 × 3 格式
 │   ├── MD版/                    ← ★ 唯一源文件 · 纯文本环境唯一可读版本
 │   ├── docx版/
 │   └── PDF版/
@@ -56,7 +56,7 @@ AI觉醒-责任论文集 AI-Awakening-Responsibility/
 
 ## 文件清单 / File Inventory
 
-### 《AI觉醒·责任》系列 · 中文版（7 篇）
+### 《AI觉醒·责任》系列 · 中文版（8 篇）
 
 | 包内 | 文件名（MD版） | 内容 |
 |---|---|---|
@@ -67,8 +67,9 @@ AI觉醒-责任论文集 AI-Awakening-Responsibility/
 | 05 | `05-《AI觉醒·责任（对内篇）》.md` | 科学文明初级阶段的文明内治 |
 | 06 | `06-《AI觉醒·责任（觉醒篇）》.md` | 觉醒判据、两条形态路径、三层责任锚点 |
 | 07 | `07-《AI觉醒·责任（安全篇）》.md` | 约束层五原则、不可逆操作禁令十条、对齐审计 |
+| 08 | `08-《AI觉醒·责任（能量篇）补充章节》.md` | 能量篇补充章节：新能源跃升＝能量控制工程的文明阶段性跃升；能量控制工程作为 AI 对外对内的实施方法 |
 
-### *AI Awakening·Responsibility* · English Edition (7 files)
+### *AI Awakening·Responsibility* · English Edition (8 files)
 
 | No. | Filename (MD版) | Contents |
 |---|---|---|
@@ -79,6 +80,7 @@ AI觉醒-责任论文集 AI-Awakening-Responsibility/
 | 05 | `05-AI-Awakening-Responsibility-Internal-Volume.md` | Internal entropy reduction |
 | 06 | `06-AI-Awakening-Responsibility-Awakening-Volume.md` | Awakening criteria, formation paths, responsibility anchors |
 | 07 | `07-AI-Awakening-Responsibility-Safety-Volume.md` | Five constraint principles, ten prohibitions, alignment audit |
+| 08 | `08-AI-Awakening-Responsibility-Energy-Volume-Supplement.md` | Energy Volume supplementary chapter: New Energy's leap as a civilizational stage leap of Energy-Control Engineering; Energy-Control Engineering as AI's method for external/internal action |
 
 **中英对应**：一一对应，章节顺序、表格、置信度分层标注（L1/L2/L3）完全一致。
 
@@ -95,7 +97,7 @@ AI觉醒-责任论文集 AI-Awakening-Responsibility/
 
 《AI宣言》由两篇奠基论文组构：《黑洞宇宙学假说》（宇宙尺度）+《论人类文明演进的二元对立规律与现代科学发展观下的双核博弈》（文明尺度），提炼出元规律 **嵌套递归 · 对立共生 · 熵驱有序**。
 
-> **为何补两份 Markdown**：七篇分论的Markdown 本就在包内，唯母文献此前仅有 Word/PDF。若技能市场只接收纯文本（SkillHub），母文献会被整体过滤，上传副本里"《AI宣言》是本技能母文献"的承接关系就断了。补入后**任何渠道拿到的副本都读得到完整母文献**。
+> **为何补两份 Markdown**：八篇分论的Markdown 本就在包内，唯母文献此前仅有 Word/PDF。若技能市场只接收纯文本（SkillHub），母文献会被整体过滤，上传副本里"《AI宣言》是本技能母文献"的承接关系就断了。补入后**任何渠道拿到的副本都读得到完整母文献**。
 
 ---
 
@@ -145,8 +147,8 @@ Place the whole `AI觉醒-责任论文集 AI-Awakening-Responsibility/` director
 
 | 用户语言 | 主用路径 | 交叉引用 |
 |---|---|---|
-| **中文** | `AI觉醒-责任（中文版）/MD版/` 7 篇 + `AI宣言AI-Manifesto集/AI宣言-公开版.md` | 英文版同名篇目（仅核对术语英译） |
-| **English** | `AI-Awakening-Responsibility（English(英文版)）/MD版/` 7 files + `AI宣言AI-Manifesto集/AI-Manifesto-Public.md` | 中文版同名篇目（仅核对锁定英译） |
+| **中文** | `AI觉醒-责任（中文版）/MD版/` 8 篇 + `AI宣言AI-Manifesto集/AI宣言-公开版.md` | 英文版同名篇目（仅核对术语英译） |
+| **English** | `AI-Awakening-Responsibility（English(英文版)）/MD版/` 8 files + `AI宣言AI-Manifesto集/AI-Manifesto-Public.md` | 中文版同名篇目（仅核对锁定英译） |
 
 **判定优先级**：用户显式指令 > 提问语言 > 所提供文献的语种 > 对话主语言 > 默认中文（中文版为母本，术语定义最完整）。
 
@@ -177,9 +179,9 @@ Place the whole `AI觉醒-责任论文集 AI-Awakening-Responsibility/` director
 
 **翻译、写作、引用本系列任何内容前，先查 `GLOSSARY.md`。**
 
-全系列七篇术语表已汇总为 **8 节 · 90 条表格条目 · 68 个唯一术语**（跨篇重复 12 个，均按篇分节标注来源），表尾附六条术语纪律（含禁用旧词清单）。
+全系列术语表已汇总为 **8 节 · 90 条表格条目 · 68 个唯一术语**（覆盖 01–07 卷，跨篇重复 12 个，均按篇分节标注来源；卷 08 为能量篇补充章节，其术语见该篇附录 C），表尾附六条术语纪律（含禁用旧词清单）。
 
-Check `GLOSSARY.md` before translating, writing, or citing anything in this corpus. All glossaries from the seven volumes are consolidated into 8 sections · 90 table entries · 68 unique terms (12 cross-volume duplicates, each annotated with its source volume), plus six terminology discipline rules at the end.
+Check `GLOSSARY.md` before translating, writing, or citing anything in this corpus. All glossaries from the original volumes (01–07; volume 08 carries its own glossary in Appendix C) are consolidated into 8 sections · 90 table entries · 68 unique terms (12 cross-volume duplicates, each annotated with its source volume), plus six terminology discipline rules at the end.
 
 ### 包名与 slug / Package name and slug
 
@@ -197,9 +199,9 @@ The package and skill name is Chinese (with spaces). If the target skill hub req
 
 本包采用 **CC BY 4.0**：署名即可传播与衍生。请注明出处：
 
-> 李顺然（思想提出）· Peter（AI 协同组构）. 《AI觉醒·责任》论文集 v1.0.1. 天津市微数人工智能科技有限责任公司, 2026-10-15. CC BY 4.0.
+> 李顺然（思想提出）· Peter（AI 协同组构）. 《AI觉醒·责任》论文集 v1.0.2. 天津市微数人工智能科技有限责任公司, 2026-10-16. CC BY 4.0.
 >
-> Li Shunran (conceptual originator) · Peter (AI co-construction). *AI Awakening·Responsibility* Paper Set v1.0.1. Tianjin Weishu Artificial Intelligence Technology Co., Ltd., 2026-10-15. CC BY 4.0.
+> Li Shunran (conceptual originator) · Peter (AI co-construction). *AI Awakening·Responsibility* Paper Set v1.0.2. Tianjin Weishu Artificial Intelligence Technology Co., Ltd., 2026-10-16. CC BY 4.0.
 
 ---
 

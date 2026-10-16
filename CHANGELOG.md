@@ -4,6 +4,19 @@
 
 ---
 
+## [1.0.2] - 2026-10-16
+
+新增能量篇补充章节（卷 08）/ Added the Energy Volume Supplementary Chapter (Volume 08).
+
+### 新增 / Added
+
+- **卷 08 ·《AI觉醒·责任（能量篇）补充章节》**（中英双语 × MD / Word / PDF）— 以能量控制工程为基座，论证"新能源跃升＝能量控制工程的文明阶段性跃升"，并将其定位为 AI 对外对内（对外拓界 / 对内降熵）的具体实施方法；独立成篇，不改动原能量篇（03）
+  - 中文版：`08-《AI觉醒·责任（能量篇）补充章节》.{md, docx, pdf}`
+  - 英文版：`08-AI-Awakening-Responsibility-Energy-Volume-Supplement.{md, docx, pdf}`
+- 篇目索引同步为 8 篇：`SKILL.md`（6.1 / 6.2 篇目表 + 路径表）、`README.md`（文件清单 + 路径表）、`PLATFORMS.md`（渠道内容对照）、`GLOSSARY.md`（篇数说明）、`manifest.json`（`file_count_per_format` 7→8）
+
+---
+
 ## [1.0.1] - 2026-10-15
 
 跨平台分发完善 + 语言适配 / Cross-platform distribution hardening + language routing.

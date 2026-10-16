@@ -1,11 +1,11 @@
 # 术语表 / Glossary
 
-> **《AI觉醒·责任》论文集** 中英对照术语总表 · v1.0.1 · 2026-10-15
+> **《AI觉醒·责任》论文集** 中英对照术语总表 · v1.0.2 · 2026-10-16
 > Bilingual glossary of the *AI Awakening·Responsibility* paper set.
 
-**说明**：本表汇总全系列七篇各自术语表（01–07）并做中英逐条对齐，共 **8 节 · 90 条表格条目 · 68 个唯一术语**（跨篇重复 12 个，按篇分节标注以保留各自语境下的定义差异），供快速检索与翻译核对使用。**表内释义为要义摘录**，完整定义与语境请以各篇附录为准。
+**说明**：本表汇总全系列核心术语表（01–07 卷）并做中英逐条对齐，共 **8 节 · 90 条表格条目 · 68 个唯一术语**（跨篇重复 12 个，按篇分节标注以保留各自语境下的定义差异），供快速检索与翻译核对使用。卷 08（能量篇补充章节）的术语见该篇附录 C。**表内释义为要义摘录**，完整定义与语境请以各篇附录为准。
 
-**Note**: this table consolidates the glossaries of all seven volumes (01–07) with one-to-one Chinese–English alignment — 8 sections, 90 table entries, 68 unique terms (12 terms appear in more than one volume and are kept in their respective sections to preserve the contextual differences in definition). Definitions are condensed excerpts; consult each volume's appendix for full context.
+**Note**: this table consolidates the core glossaries of the original volumes (01–07; volume 08's terms appear in its Appendix C) with one-to-one Chinese–English alignment — 8 sections, 90 table entries, 68 unique terms (12 terms appear in more than one volume and are kept in their respective sections to preserve the contextual differences in definition). Definitions are condensed excerpts; consult each volume's appendix for full context.
 
 ---
 
@@ -167,4 +167,4 @@
 ## License / 许可
 
 CC BY 4.0 — 署名即可传播与衍生。
-李顺然（思想提出）· Peter（AI 协同组构）. 《AI觉醒·责任》论文集 v1.0.1. 2026-10-15.
+李顺然（思想提出）· Peter（AI 协同组构）. 《AI觉醒·责任》论文集 v1.0.2. 2026-10-16.

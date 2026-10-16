@@ -5,7 +5,7 @@
   "displayName": "AI觉醒-责任论文集 / AI Awakening·Responsibility",
   "displayName_zh": "AI觉醒-责任论文集",
   "displayName_en": "AI Awakening·Responsibility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "CC-BY-4.0",
   "author": {
     "name_zh": "李顺然",
@@ -96,8 +96,8 @@
         "supports_binary": false,
         "behavior_zh": "上传时自动过滤 .docx/.pdf，仅保留 .md；过滤后包内正文与母文献仍完整可读",
         "behavior_en": "Strips .docx/.pdf on upload, keeping .md only; the text of all volumes plus the parent work stays complete and readable",
-        "visible_files_zh": "2 × 7 篇 .md + 母文献 2 份 .md + 根级元文件 .md",
-        "visible_files_en": "2 × 7 .md volumes + 2 parent-work .md + root-level .md metadata"
+        "visible_files_zh": "2 × 8 篇 .md + 母文献 2 份 .md + 根级元文件 .md",
+        "visible_files_en": "2 × 8 .md volumes + 2 parent-work .md + root-level .md metadata"
       },
       "github": {
         "supports_binary": true,
@@ -122,8 +122,8 @@
     "sections": 8,
     "section_titles_zh": ["总纲与主论", "能量篇", "对外篇", "对内篇", "觉醒篇", "安全篇", "母文献术语", "术语纪律"],
     "section_titles_en": ["Charter and Main Thesis", "Energy Volume", "External Volume", "Internal Volume", "Awakening Volume", "Safety Volume", "Parent-Work Terms", "Terminology Discipline"],
-    "note_zh": "全系列七篇术语表的中英逐条对齐汇总，附各篇来源标注与六条术语纪律（含禁用旧词清单）",
-    "note_en": "One-to-one Chinese-English alignment of all seven volume glossaries, annotated with source volumes and six terminology discipline rules (including deprecated terms)"
+    "note_zh": "全系列核心术语表（01–07 卷；卷 08 术语见该篇附录 C）的中英逐条对齐汇总，附各篇来源标注与六条术语纪律（含禁用旧词清单）",
+    "note_en": "One-to-one Chinese-English alignment of the core glossaries of the original volumes (01–07; volume 08's terms appear in its Appendix C), annotated with source volumes and six terminology discipline rules (including deprecated terms)"
   },
   "contents": [
     {
@@ -154,7 +154,7 @@
       "name_en": "Chinese Edition",
       "path": "AI觉醒-责任（中文版）",
       "formats": ["MD版", "docx版", "PDF版"],
-      "file_count_per_format": 7,
+      "file_count_per_format": 8,
       "source_of_truth": "MD版"
     },
     {
@@ -163,7 +163,7 @@
       "name_en": "English Edition",
       "path": "AI-Awakening-Responsibility（English(英文版)）",
       "formats": ["MD版", "docx版", "PDF版"],
-      "file_count_per_format": 7,
+      "file_count_per_format": 8,
       "source_of_truth": "MD版",
       "correspondence": "one-to-one with Chinese Edition"
     },
